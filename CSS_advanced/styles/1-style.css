@@ -1,0 +1,5 @@
+/* Task 1: Implement fluid scrolling on the HTML element */
+
+html {
+    scroll-behavior: smooth;
+}
