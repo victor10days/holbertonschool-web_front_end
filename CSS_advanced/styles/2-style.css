@@ -1,15 +1,19 @@
 html {
     scroll-behavior: smooth;
 }
+
 body {
     foreground-color: #161616;
 }
+
 visually-hidden {
     display: none;
 }
+
 card-category {
     foreground-color: #D73953;
 }
+
 section-tagline {
     foreground-color: #D73953;
 }
